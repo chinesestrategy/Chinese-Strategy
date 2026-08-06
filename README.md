@@ -1,5 +1,9 @@
 # CSTR (Chinese Strategy)
 
+
+<img width="2172" height="724" alt="ChatGPT Image 6 août 2026, 22_21_38" src="https://github.com/user-attachments/assets/09cd4cf5-9e26-47a7-ae01-282edd2f48ca" />
+
+
 CSTR is a Solana-native treasury and governance prototype designed to accumulate value from token fees, dead-pool SOL, and other on-chain treasury inflows, then allocate capital into off-chain Chinese equity exposure through a custodied workflow. The repository is a runnable monorepo scaffold for the treasury program, token module, oracle bot, dashboard, and tests.
 
 ## Project overview
