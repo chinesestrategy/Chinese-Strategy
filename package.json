@@ -1,0 +1,13 @@
+{
+  "name": "cstr-monorepo",
+  "private": true,
+  "scripts": {
+    "test:anchor": "anchor test",
+    "dev:app": "npm --prefix app run dev",
+    "dev:bot": "npm --prefix oracle-bot run dev"
+  },
+  "workspaces": [
+    "app",
+    "oracle-bot"
+  ]
+}

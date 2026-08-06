@@ -1,0 +1,16 @@
+[package]
+name = "cstr-token"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "cstr_token"
+
+[features]
+default = []
+
+[dependencies]
+anchor-lang = { version = "0.30.0", features = ["init-if-needed"] }
+anchor-spl = "0.30.0"
+solana-program = "1.18.15"
